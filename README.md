@@ -1,7 +1,7 @@
 # conway's game of life
 a simple version of conway's game of life that starts with random noise. canvas size, amount of rounds, cell size and output format (.gif image or .mp4 video) can be adjusted flexibly.
 
-![Alt text](/output examples/1544103943.gif?raw=true)
+![Alt text]("/output examples/1544103943.gif?raw=true")
 
 # installation
 ```
