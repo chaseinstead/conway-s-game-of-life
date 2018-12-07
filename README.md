@@ -4,7 +4,11 @@ a simple version of conway's game of life that starts with random noise. canvas 
 ![Alt text](/animation_examples/1544103943.gif?raw=true)
 
 # installation
-for now, just download "game-of-life-v2.ipynb", adjust the variables in the "config" dict and play and play it in jupyter notebook.
+```
+pip install -r requirements.txt
+```
+
+and for now, just download "game-of-life-v2.ipynb", adjust the variables in the "config" dict and play and play it in jupyter notebook.
 
 # sample output
 
