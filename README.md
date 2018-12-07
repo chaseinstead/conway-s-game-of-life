@@ -16,6 +16,8 @@ for now, just download "game-of-life-v2.ipynb", adjust the variables in the "con
 
 [800 cells, 200 rounds, enlarged pixels by 15](/animation_examples/11544167193.gif)
 
+[static](/animation_examples/1544166975.gif)
+
 
 # to do:
 - improve performance (especially conversion from float64 to uint8)
